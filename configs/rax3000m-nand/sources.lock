@@ -1,0 +1,8 @@
+lede https://github.com/coolsnowwolf/lede.git 3d7339cc82716d0dfc110214bccb907ac5662b70
+packages https://github.com/coolsnowwolf/packages.git bee0f8665162af7cd2b64c2f849b843bf9595ea1
+luci https://github.com/coolsnowwolf/luci.git ca472c912b840bed029fc591e149118af104c0c4
+routing https://github.com/coolsnowwolf/routing.git 2d0f967bd6bd95d4c0d3c330e4713e79d75b4c54
+telephony https://github.com/coolsnowwolf/telephony.git d3bcb153813b1ff34b3dd0f1bf0dc913984f2921
+helloworld https://github.com/fw876/helloworld.git e825742c1e9267906d5208f080fb3b65d8b300e7
+video https://github.com/coolsnowwolf/video.git 18daef81d24ddbd946f2b0a4087daf58080520eb
+turboacc https://github.com/coolsnowwolf/luci.git a0d601ec1ba09e303a9597b171a2ec07485591f4
